@@ -1,16 +1,17 @@
-package com.example.fordlabs.calculator;
+package com.example.fordlabs.unitTest;
 
 import android.databinding.DataBindingUtil;
 import android.support.v7.app.AppCompatActivity;
-import com.example.fordlabs.calculator.databinding.ActivityMainBinding;
+
+import com.example.fordlabs.unitTest.com.example.fordlabs.calculator.service.CalculationService;
+import com.example.fordlabs.unitTest.databinding.ActivityMainBinding;
+
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
-
-import org.w3c.dom.Text;
 
 import java.util.ArrayList;
 import java.util.List;
