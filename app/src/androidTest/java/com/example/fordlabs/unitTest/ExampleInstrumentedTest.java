@@ -1,4 +1,4 @@
-package com.example.fordlabs.calculator;
+package com.example.fordlabs.unitTest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
